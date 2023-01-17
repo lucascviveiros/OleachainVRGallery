@@ -8,5 +8,5 @@
 	- Oculus integration SDK version 41.0 
 	- TextMesh Pro Importer
 	- LargeFilesVideoGallery folder cotaining variant prefabs
-- Make sure to verify if HandInteractorsRight and HandInteractorsLeft have HandRayInteractor script attached in the InteractorGroup (without this is not possible to interact with the UI Canvas)
-- Or settup the Oculus Unity project by using InteractionRigOVR-Basic Variant
+	> Make sure to verify if HandInteractorsRight and HandInteractorsLeft have HandRayInteractor script attached in the InteractorGroup (without this is not possible to interact with the UI Canvas)
+	> Or settup the Oculus Unity project by using InteractionRigOVR-Basic Variant
