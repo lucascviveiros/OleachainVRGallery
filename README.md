@@ -1,6 +1,6 @@
 # OleachainVRGallery
 
- Oculus Quest VRGallery 
+ VRGallery - Oculus Quest is an open-souce application under the scope of Oleachain Project NORTE ...   
  
 - allows to load all the videos from oculus gallery and 360 videos execution in oculus devices
 - Requires: 
