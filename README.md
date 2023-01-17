@@ -6,5 +6,5 @@
 - Requires: 
 	- NativeGallery plugin 
 	- Oculus integration SDK version 41.0
-- Make sure to verify if HandInteractorsRight and HandInteractorsLeft have HandRayInteractor script attached in the InteractorGroup
-- Or settup the Unitu project by using InteractionRigOVR-Basic Variant
+- Make sure to verify if HandInteractorsRight and HandInteractorsLeft have HandRayInteractor script attached in the InteractorGroup (without this is not possible to interact with the UI Canvas)
+- Or settup the Oculus Unity project by using InteractionRigOVR-Basic Variant
