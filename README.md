@@ -1,6 +1,6 @@
 # OleachainVRGallery
 
- VRGallery - An open-souce 360 video application based on Oculus Quest under the scope of Oleachain Project NORTE ...   
+ VRGallery - An open-souce 360 video application based on Oculus Quest under the scope of Oleachain Project NORTE NORTE-06-3559-FSE-000188 
  
 - Features:
 	-  Acess and load 360 Video in Oculus Gallery from /Movies folder.
